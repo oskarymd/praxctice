@@ -37,25 +37,6 @@ library(ggplot2)
 
 # Introduction
 
-
-
 aa
 
-bb
-
-
-cc
-
-
-
-
-dd
-
-
-
-
-
-
-
-
-
+this is a
